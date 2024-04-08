@@ -4,6 +4,8 @@ This application aims to forecast the likelihood of road traffic accidents in sp
 
 **About Dataset:**
 
+Thanks to Kaggle!
+
 **Context**
 
 This data set is collected from Addis Ababa Sub city police departments for Masters research work.
